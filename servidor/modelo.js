@@ -55,3 +55,5 @@ function cuestionarioTest(){
 	
 	return cues;
 }
+
+module.exports.Juego=Juego;
