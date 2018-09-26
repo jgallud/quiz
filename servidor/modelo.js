@@ -9,6 +9,7 @@ function Juego(){
 	this.agregarCuestionario=function(cuest){
 		this.cuestionarios.push(cuest);
 	}
+	this.agregarCuestionario(cuestionarioTest());
 }
 
 function Usuario(nombre){
