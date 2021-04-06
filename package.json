@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jgallud/quiz#readme",
   "dependencies": {
     "jasmine-node": "^1.16.2"
-  }
+  },
+  "devDependencies": {
+  "lodash": ">=4.17.19"
+}
 }
