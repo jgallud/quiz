@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jgallud/quiz#readme",
   "dependencies": {
-    "jasmine-node": "^1.16.0"
+    "jasmine-node": "^2.0.0"
   },
   "devDependencies": {
     "lodash": ">=4.17.21"
